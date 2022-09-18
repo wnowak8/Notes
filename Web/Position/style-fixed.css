@@ -1,0 +1,28 @@
+body{
+background: #5D6D7E;
+height: 200vh;
+}
+.container{
+background: #85929E;
+padding: 20px;
+height: 850px;
+}
+.container div{
+margin: 25px;
+width: 500px;
+}
+.green{
+background: #58D68D;
+height: 100px;
+position: fixed;
+top: 25px;
+left: 50px;
+}
+.red{
+background: #E75239;
+height: 200px;
+}
+.blue{
+background: #3498D8;
+height: 200px;
+}
